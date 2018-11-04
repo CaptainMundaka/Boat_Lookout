@@ -1,2 +1,2 @@
 # Boat_Lookout
-Watch over the boat depending on the use cases
+Having a device that watches over the boat. It could be at the port, when conditions get a bit rough or during manoeuvres
